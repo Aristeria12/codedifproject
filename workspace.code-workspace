@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Code Differently Summer 2021"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "codedifproject"
+	}
+}
